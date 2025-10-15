@@ -1,5 +1,5 @@
 ---
-title: "PAGINA_WB"
+title: "DISEÑOS EXPERIMENTALES"
 author: "ANDY CORONEL BALCAZAR"
 format: html
 ---
